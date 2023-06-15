@@ -22,3 +22,24 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Directories to ignore
+
+/target/
+/test-output/
+/.project
+/.settings
+/.classpath
+/uploadfile.exe
+/uploadfileU.exe
+/uploadfilezz.exe
+/bin/
+/doc/
+.metadata/
+/.idea
+/out/
+/.idea/*
+.idea
+*.iml
+*.ipr
+*.iws
